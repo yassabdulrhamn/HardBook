@@ -1,0 +1,70 @@
+C:\Documents and Settings\Ya8S8eR\Desktop\Visual Basic\Ya8S8eR Book\Ya8S8eR Book\bin\Debug\Ya8S8eR Book.exe
+C:\Documents and Settings\Ya8S8eR\Desktop\Visual Basic\Ya8S8eR Book\Ya8S8eR Book\bin\Debug\Ya8S8eR Book.pdb
+C:\Documents and Settings\Ya8S8eR\Desktop\Visual Basic\Ya8S8eR Book\Ya8S8eR Book\bin\Debug\Ya8S8eR Book.xml
+C:\Documents and Settings\Ya8S8eR\Desktop\Visual Basic\Ya8S8eR Book\Ya8S8eR Book\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Documents and Settings\Ya8S8eR\Desktop\Visual Basic\Ya8S8eR Book\Ya8S8eR Book\obj\x86\Debug\WindowsApplication1.Form.resources
+C:\Documents and Settings\Ya8S8eR\Desktop\Visual Basic\Ya8S8eR Book\Ya8S8eR Book\obj\x86\Debug\WindowsApplication1.Resources.resources
+C:\Documents and Settings\Ya8S8eR\Desktop\Visual Basic\Ya8S8eR Book\Ya8S8eR Book\obj\x86\Debug\GenerateResource.read.1.tlog
+C:\Documents and Settings\Ya8S8eR\Desktop\Visual Basic\Ya8S8eR Book\Ya8S8eR Book\obj\x86\Debug\GenerateResource.write.1.tlog
+C:\Documents and Settings\Ya8S8eR\Desktop\Visual Basic\Ya8S8eR Book\Ya8S8eR Book\obj\x86\Debug\Ya8S8eR Book.exe
+C:\Documents and Settings\Ya8S8eR\Desktop\Visual Basic\Ya8S8eR Book\Ya8S8eR Book\obj\x86\Debug\Ya8S8eR Book.xml
+C:\Documents and Settings\Ya8S8eR\Desktop\Visual Basic\Ya8S8eR Book\Ya8S8eR Book\obj\x86\Debug\Ya8S8eR Book.pdb
+C:\Documents and Settings\Ya8S8eR\My Documents\WWWWWWWWWWW\Visual Basic\Ya8S8eR Book\Ya8S8eR Book\obj\x86\Debug\Ya8S8eR Book.exe
+C:\Documents and Settings\Ya8S8eR\My Documents\WWWWWWWWWWW\Visual Basic\Ya8S8eR Book\Ya8S8eR Book\obj\x86\Debug\Ya8S8eR Book.xml
+C:\Documents and Settings\Ya8S8eR\My Documents\WWWWWWWWWWW\Visual Basic\Ya8S8eR Book\Ya8S8eR Book\obj\x86\Debug\Ya8S8eR Book.pdb
+C:\Documents and Settings\Ya8S8eR\My Documents\WWWWWWWWWWW\Visual Basic\Ya8S8eR Book\Ya8S8eR Book\bin\Debug\Ya8S8eR Book.exe
+C:\Documents and Settings\Ya8S8eR\My Documents\WWWWWWWWWWW\Visual Basic\Ya8S8eR Book\Ya8S8eR Book\bin\Debug\Ya8S8eR Book.pdb
+C:\Documents and Settings\Ya8S8eR\My Documents\WWWWWWWWWWW\Visual Basic\Ya8S8eR Book\Ya8S8eR Book\bin\Debug\Ya8S8eR Book.xml
+C:\Documents and Settings\Ya8S8eR\My Documents\WWWWWWWWWWW\Visual Basic\Ya8S8eR Book\Ya8S8eR Book\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Documents and Settings\Ya8S8eR\My Documents\WWWWWWWWWWW\Visual Basic\Ya8S8eR Book\Ya8S8eR Book\obj\x86\Debug\GenerateResource.read.1.tlog
+C:\Documents and Settings\Ya8S8eR\My Documents\WWWWWWWWWWW\Visual Basic\Ya8S8eR Book\Ya8S8eR Book\obj\x86\Debug\GenerateResource.write.1.tlog
+C:\Documents and Settings\Ya8S8eR\My Documents\WWWWWWWWWWW\Visual Basic\Ya8S8eR Book\Ya8S8eR Book\obj\x86\Debug\Ya8S8eR_Book.Form.resources
+C:\Documents and Settings\Ya8S8eR\My Documents\WWWWWWWWWWW\Visual Basic\Ya8S8eR Book\Ya8S8eR Book\obj\x86\Debug\Ya8S8eR_Book.FormCRack.resources
+C:\Documents and Settings\Ya8S8eR\My Documents\WWWWWWWWWWW\Visual Basic\Ya8S8eR Book\Ya8S8eR Book\obj\x86\Debug\Ya8S8eR_Book.FormTools.resources
+C:\Documents and Settings\Ya8S8eR\My Documents\WWWWWWWWWWW\Visual Basic\Ya8S8eR Book\Ya8S8eR Book\obj\x86\Debug\Ya8S8eR_Book.Resources.resources
+C:\Documents and Settings\Ya8S8eR\My Documents\Pro\Visual Basic\Ya8S8eR Book\Ya8S8eR Book\obj\x86\Debug\Ya8S8eR Book.exe
+C:\Documents and Settings\Ya8S8eR\My Documents\Pro\Visual Basic\Ya8S8eR Book\Ya8S8eR Book\obj\x86\Debug\Ya8S8eR Book.xml
+C:\Documents and Settings\Ya8S8eR\My Documents\Pro\Visual Basic\Ya8S8eR Book\Ya8S8eR Book\obj\x86\Debug\Ya8S8eR Book.pdb
+C:\Documents and Settings\Ya8S8eR\My Documents\Pro\Visual Basic\Ya8S8eR Book\Ya8S8eR Book\bin\Debug\Ya8S8eR Book.exe
+C:\Documents and Settings\Ya8S8eR\My Documents\Pro\Visual Basic\Ya8S8eR Book\Ya8S8eR Book\bin\Debug\Ya8S8eR Book.pdb
+C:\Documents and Settings\Ya8S8eR\My Documents\Pro\Visual Basic\Ya8S8eR Book\Ya8S8eR Book\bin\Debug\Ya8S8eR Book.xml
+C:\Documents and Settings\Ya8S8eR\My Documents\Pro\Visual Basic\Ya8S8eR Book\Ya8S8eR Book\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Documents and Settings\Ya8S8eR\My Documents\Pro\Visual Basic\Ya8S8eR Book\Ya8S8eR Book\obj\x86\Debug\Ya8S8eR_Book.Form.resources
+C:\Documents and Settings\Ya8S8eR\My Documents\Pro\Visual Basic\Ya8S8eR Book\Ya8S8eR Book\obj\x86\Debug\Ya8S8eR_Book.FormCRack.resources
+C:\Documents and Settings\Ya8S8eR\My Documents\Pro\Visual Basic\Ya8S8eR Book\Ya8S8eR Book\obj\x86\Debug\Ya8S8eR_Book.FormTools.resources
+C:\Documents and Settings\Ya8S8eR\My Documents\Pro\Visual Basic\Ya8S8eR Book\Ya8S8eR Book\obj\x86\Debug\Ya8S8eR_Book.Resources.resources
+C:\Documents and Settings\Ya8S8eR\My Documents\Pro\Visual Basic\Ya8S8eR Book\Ya8S8eR Book\obj\x86\Debug\GenerateResource.read.1.tlog
+C:\Documents and Settings\Ya8S8eR\My Documents\Pro\Visual Basic\Ya8S8eR Book\Ya8S8eR Book\obj\x86\Debug\GenerateResource.write.1.tlog
+D:\Pro\Visual Basic\Ya8S8eR Book\Ya8S8eR Book\obj\x86\Debug\Ya8S8eR Book.exe
+D:\Pro\Visual Basic\Ya8S8eR Book\Ya8S8eR Book\obj\x86\Debug\Ya8S8eR Book.xml
+D:\Pro\Visual Basic\Ya8S8eR Book\Ya8S8eR Book\obj\x86\Debug\Ya8S8eR Book.pdb
+D:\Pro\Visual Basic\Ya8S8eR Book\Ya8S8eR Book\bin\Debug\Ya8S8eR Book.exe
+D:\Pro\Visual Basic\Ya8S8eR Book\Ya8S8eR Book\bin\Debug\Ya8S8eR Book.pdb
+D:\Pro\Visual Basic\Ya8S8eR Book\Ya8S8eR Book\bin\Debug\Ya8S8eR Book.xml
+D:\Pro\Visual Basic\Ya8S8eR Book\Ya8S8eR Book\obj\x86\Debug\Ya8S8eR_Book.Form.resources
+D:\Pro\Visual Basic\Ya8S8eR Book\Ya8S8eR Book\obj\x86\Debug\Ya8S8eR_Book.FormCRack.resources
+D:\Pro\Visual Basic\Ya8S8eR Book\Ya8S8eR Book\obj\x86\Debug\Ya8S8eR_Book.FormTools.resources
+D:\Pro\Visual Basic\Ya8S8eR Book\Ya8S8eR Book\obj\x86\Debug\Ya8S8eR_Book.Resources.resources
+D:\Pro\Visual Basic\Ya8S8eR Book\Ya8S8eR Book\obj\x86\Debug\Ya8S8eR Book.vbproj.GenerateResource.Cache
+C:\Users\PC Ya8S8eR\Documents\Visual Studio 2010\Projects\Ya8S8eR Book\Ya8S8eR Book\obj\x86\Debug\Ya8S8eR Book.exe
+C:\Users\PC Ya8S8eR\Documents\Visual Studio 2010\Projects\Ya8S8eR Book\Ya8S8eR Book\obj\x86\Debug\Ya8S8eR Book.xml
+C:\Users\PC Ya8S8eR\Documents\Visual Studio 2010\Projects\Ya8S8eR Book\Ya8S8eR Book\obj\x86\Debug\Ya8S8eR Book.pdb
+C:\Users\PC Ya8S8eR\Documents\Visual Studio 2010\Projects\Ya8S8eR Book\Ya8S8eR Book\bin\Debug\Ya8S8eR Book.exe
+C:\Users\PC Ya8S8eR\Documents\Visual Studio 2010\Projects\Ya8S8eR Book\Ya8S8eR Book\bin\Debug\Ya8S8eR Book.pdb
+C:\Users\PC Ya8S8eR\Documents\Visual Studio 2010\Projects\Ya8S8eR Book\Ya8S8eR Book\bin\Debug\Ya8S8eR Book.xml
+C:\Users\PC Ya8S8eR\Documents\Visual Studio 2010\Projects\Ya8S8eR Book\Ya8S8eR Book\obj\x86\Debug\Ya8S8eR_Book.Form.resources
+C:\Users\PC Ya8S8eR\Documents\Visual Studio 2010\Projects\Ya8S8eR Book\Ya8S8eR Book\obj\x86\Debug\Ya8S8eR_Book.FormCRack.resources
+C:\Users\PC Ya8S8eR\Documents\Visual Studio 2010\Projects\Ya8S8eR Book\Ya8S8eR Book\obj\x86\Debug\Ya8S8eR_Book.FormTools.resources
+C:\Users\PC Ya8S8eR\Documents\Visual Studio 2010\Projects\Ya8S8eR Book\Ya8S8eR Book\obj\x86\Debug\Ya8S8eR_Book.Resources.resources
+C:\Users\PC Ya8S8eR\Documents\Visual Studio 2010\Projects\Ya8S8eR Book\Ya8S8eR Book\obj\x86\Debug\Ya8S8eR Book.vbproj.GenerateResource.Cache
+C:\Users\Yaser\Documents\Visual Studio 2010\Projects\Ya8S8eR Book\Ya8S8eR Book\obj\x86\Debug\Ya8S8eR Book.exe
+C:\Users\Yaser\Documents\Visual Studio 2010\Projects\Ya8S8eR Book\Ya8S8eR Book\obj\x86\Debug\Ya8S8eR Book.xml
+C:\Users\Yaser\Documents\Visual Studio 2010\Projects\Ya8S8eR Book\Ya8S8eR Book\obj\x86\Debug\Ya8S8eR Book.pdb
+C:\Users\Yaser\Documents\Visual Studio 2010\Projects\Ya8S8eR Book\Ya8S8eR Book\bin\Debug\Ya8S8eR Book.exe
+C:\Users\Yaser\Documents\Visual Studio 2010\Projects\Ya8S8eR Book\Ya8S8eR Book\bin\Debug\Ya8S8eR Book.pdb
+C:\Users\Yaser\Documents\Visual Studio 2010\Projects\Ya8S8eR Book\Ya8S8eR Book\bin\Debug\Ya8S8eR Book.xml
+C:\Users\Yaser\Documents\Visual Studio 2010\Projects\Ya8S8eR Book\Ya8S8eR Book\obj\x86\Debug\Ya8S8eR_Book.Form.resources
+C:\Users\Yaser\Documents\Visual Studio 2010\Projects\Ya8S8eR Book\Ya8S8eR Book\obj\x86\Debug\Ya8S8eR_Book.FormCRack.resources
+C:\Users\Yaser\Documents\Visual Studio 2010\Projects\Ya8S8eR Book\Ya8S8eR Book\obj\x86\Debug\Ya8S8eR_Book.FormTools.resources
+C:\Users\Yaser\Documents\Visual Studio 2010\Projects\Ya8S8eR Book\Ya8S8eR Book\obj\x86\Debug\Ya8S8eR_Book.Resources.resources
+C:\Users\Yaser\Documents\Visual Studio 2010\Projects\Ya8S8eR Book\Ya8S8eR Book\obj\x86\Debug\Ya8S8eR Book.vbproj.GenerateResource.Cache

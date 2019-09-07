@@ -1,0 +1,20 @@
+CPU: 	A computer that has a 1.4 gigahertz (GHz) processor
+		
+RAM: 	256 megabytes (MB) of system RAM
+		
+VGA: 	A 64 MB video card that supports Hardware Transform and Lighting
+		
+DX: 	DirectX 9.0c
+		
+OS: 	Microsoft Windows XP
+		
+HDD: 	A hard disk that has at least 2 gigabytes (GB) of available space
+	
+Sound: 	An audio card and speakers or headphones
+	
+	
+ODD: 	A 32x speed CD drive
+	
+Network: 	A 56.6 kilobytes per second (KBps) or faster Internet connection for online play
+	
+Recommended peripheral:	A Microsoft mouse or a compatible pointing device

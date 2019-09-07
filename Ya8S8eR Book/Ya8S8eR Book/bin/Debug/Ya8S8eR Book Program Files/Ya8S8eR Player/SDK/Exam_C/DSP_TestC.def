@@ -1,0 +1,5 @@
+LIBRARY		DSP_TestC.dll
+EXPORTS
+                kmpDSPGetHeader2 PRIVATE
+                winampDSPGetHeader2 PRIVATE
+

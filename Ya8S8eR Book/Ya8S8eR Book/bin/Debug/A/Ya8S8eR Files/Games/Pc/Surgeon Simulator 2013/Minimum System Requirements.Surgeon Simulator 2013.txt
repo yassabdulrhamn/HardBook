@@ -1,0 +1,13 @@
+CPU:	2.0 GHz or better
+	
+RAM: 	2 GB RAM
+			
+VGA: 	Nvidia Geforce 7800 GT or better
+				
+DX: 	9.0
+	
+OS: 	Windows XP & Windows 7
+			
+HDD: 	500 MB HD space
+				
+Sound:	DirectX9.0 compatible sound card

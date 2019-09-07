@@ -1,0 +1,4 @@
+Offline Modes:    Competitive, Team Oriented
+Online Modes:    Competitive, Team Oriented
+Number of Players:    1-8 Players
+Number of Online Players:    8 Players Online

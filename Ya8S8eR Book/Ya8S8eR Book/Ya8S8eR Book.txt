@@ -1,0 +1,20 @@
+            For Each iavi As FileInfo In New DirectoryInfo(path & ListBoxDramaName.SelectedItem).GetFiles("*.avi")
+                Dim url As String
+                url = iavi.FullName
+                Process.Start(url)
+            Next
+            For Each imp4 As FileInfo In New DirectoryInfo(path & ListBoxDramaName.SelectedItem).GetFiles("*.mp4")
+                Dim url As String
+                url = imp4.FullName
+                Process.Start(url)
+            Next
+            For Each irm As FileInfo In New DirectoryInfo(path & ListBoxDramaName.SelectedItem).GetFiles("*.rm")
+                Dim url As String
+                url = irm.FullName
+                Process.Start(url)
+            Next
+            For Each irmvb As FileInfo In New DirectoryInfo(path & ListBoxDramaName.SelectedItem).GetFiles("*.rmvb")
+                Dim url As String
+                url = irmvb.FullName
+                Process.Start(url)
+            Next

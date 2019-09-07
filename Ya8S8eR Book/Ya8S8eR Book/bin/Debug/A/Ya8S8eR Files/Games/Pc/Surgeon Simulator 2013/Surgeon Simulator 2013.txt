@@ -1,0 +1,8 @@
+Publisher:
+    Bossa Studios
+Developer:
+    Bossa Studios
+Genre:
+    Simulation
+Release Date:
+    Apr 19, 2013
